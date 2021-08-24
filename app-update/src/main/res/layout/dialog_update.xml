@@ -22,7 +22,7 @@
         android:id="@+id/ll_content"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginHorizontal="16dp"
+        android:paddingHorizontal="16dp"
         android:background="@drawable/bg_white_radius_6"
         android:orientation="vertical"
         app:layout_constraintEnd_toEndOf="parent"
