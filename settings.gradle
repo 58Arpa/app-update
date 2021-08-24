@@ -1,0 +1,12 @@
+/*dependencyResolutionManagement {
+    repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
+    repositories {
+        google()
+        jcenter()
+        mavenCentral()
+        maven { url "http://192.168.31.41:8081/repository/arpa-android-release/" }
+    }
+}*/
+include ':app'
+include ':app-update'
+rootProject.name = "AppUpdate"
