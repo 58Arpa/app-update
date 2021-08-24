@@ -35,8 +35,8 @@ public class NumberProgressBar extends View {
     private static final String INSTANCE_PREFIX = "prefix";
     private static final String INSTANCE_TEXT_VISIBILITY = "text_visibility";
     private static final int PROGRESS_TEXT_VISIBLE = 0;
-    private final int default_text_color = Color.rgb(255, 137, 91);
-    private final int default_reached_color = Color.rgb(255, 137, 91);
+    private final int default_text_color = Color.rgb(44, 124, 246);
+    private final int default_reached_color = Color.rgb(44, 124, 246);
     private final int default_unreached_color = Color.rgb(204, 204, 204);
     private final float default_progress_text_offset;
     private final float default_text_size;
